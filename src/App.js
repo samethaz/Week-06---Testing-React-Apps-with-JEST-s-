@@ -1,3 +1,6 @@
+/*kisi bilgisini iceren bir JSON dokümani var. 
+*Bu dokümandaki bilgileri, REACT componentleri kullanarak ekranda uygun formatta gösterilmesi
+*/
 import logo from './logo.svg';
 import './App.css';
 import Foreigner from './data/foreigners.json';
@@ -9,5 +12,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
